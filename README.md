@@ -6,4 +6,4 @@ this is new line.
 and more lines.
 look the changes.
 test
-Creating a new branch is quick and so sample.
+Creating a new branch is quick and  simple.
